@@ -12,6 +12,7 @@ public class Main {
 		course.setCourseName("Программ хангамжийн бүтээлт");
 		System.out.println(course.getCourseName());
 
+
 	}
 
 }
